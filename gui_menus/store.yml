@@ -54,7 +54,7 @@ items:
     - '[message] &6Shop &8> &fYou bought &a1 x Granite &ffor &a$100&f.'
     right_click_commands:
     - '[console] eco give %player_name% 25'
-    - '[console] clear %player_name% GRANITE 1'
+    - '[console] minecraft:clear %player_name% GRANITE 1'
     - '[message] &6Shop &8> &fYou sold &a1 x Granite &ffor &a$25&f.'
 ### End of the vault economy shop
 
